@@ -1,5 +1,5 @@
-This rocket-eve organization is part of the Laboratory for Atmospheric and Space Physics at CU Boulder.
+![LASP CU Boulder Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7abxjWcIaxRmTxQtVlWcQrP4pBGLuZUQO13x54xMkCuqol5bK1jzpyApBy1bKZOic1Q&usqp=CAU)
 
-![LASP CU Boulder Logo](https://lasp.colorado.edu/home/wp-content/uploads/2021/11/lasp-logo.color_.transp-bg.large-dropshadow-whitetxt-768x260.png)
+This rocket-eve organization is part of the Laboratory for Atmospheric and Space Physics at CU Boulder.
 
 
